@@ -1,1 +1,1 @@
-access dashboard at https://iconic101.github.io/Census_Dashboard/
+access dashboard at https://bibeshsedhain.github.io/Census_Dashboard/
